@@ -1,13 +1,6 @@
 import { throttle } from './throttle';
 
-// Mock function to use in tests
-const mockFunc = jest.fn();
-
-// // Define a time function to mock setTimeout
-// const mockSetTimeout = (callback: () => void, delay: number) => {
-//   callback();
-// };
-
+const mockFunc = jest.fn();// Mock function to use in tests
 jest.useFakeTimers(); // Use Jest's fake timers to control setTimeout
 
 describe('throttle function', () => {

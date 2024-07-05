@@ -30,7 +30,6 @@ Crea un front-end para comprobar la funcionalidad de la función throttle .
 
 ## [Recursos](https://github.com/SKRTEEEEEE/markdowns/)
 ### [Empezando](https://github.com/SKRTEEEEEE/markdowns/blob/main/utils/how-start/ts-compiled_es.md)
-
 #### Realizar test
 Para iniciar los test de la aplicación, ejecuta:
 
