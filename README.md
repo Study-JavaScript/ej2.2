@@ -31,7 +31,7 @@ Crea un front-end para comprobar la funcionalidad de la función throttle .
 ## [Recursos](https://github.com/SKRTEEEEEE/markdowns/)
 ### Empezando
 Para ver las diferentes partes del proyecto, navega a las diferentes ramas del proyecto una vez clonado.
-_Puedes utilizar el comando `git clone https://github.com/Study-JavaScript/ej2.1.git`_
+_Puedes utilizar el comando `git clone https://github.com/Study-JavaScript/ej2.2.git`_
 #### Estructuras ramas
 ##### `main`
 Rama principal del proyecto.
