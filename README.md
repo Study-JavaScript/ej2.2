@@ -36,12 +36,12 @@ _Puedes utilizar el comando `git clone https://github.com/Study-JavaScript/ej2.2
 ##### `main`
 Rama principal del proyecto.
 ##### [`test/cli`](https://github.com/Study-JavaScript/ej2.2/tree/test/cli)
-Rama con unicamente el test y uso de la función `debounce()`. Para dirigirte utiliza el siguiente comando en la carpeta principal:
+Rama con unicamente el test y uso de la función `throttle()`. Para dirigirte utiliza el siguiente comando en la carpeta principal:
 ```bash
 git checkout test/cli
 ```
 ##### [`app`](https://github.com/Study-JavaScript/ej2.2/tree/app)
-Rama con la utilización de la función debounce en el ejercicio 1.1. Para dirigirte utiliza el siguiente comando en la carpeta principal:
+Rama con la utilización de la función `throttle()`, comparandola con la función `debounce()`, en una aplicacion con Frontend. Para dirigirte utiliza el siguiente comando en la carpeta principal:
 ```bash
 git checkout app
 ```
