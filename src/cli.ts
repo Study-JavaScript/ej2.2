@@ -1,5 +1,3 @@
-// Throttle function CLI
-
 import readline from "readline"
 import { throttle } from "./throttle";
 
